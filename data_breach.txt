@@ -1,0 +1,11 @@
+The risk when individuals email addresses and passwords are exposed to public is the risk of people reading their confidential information. Having access to their personal data and possible using against them. 
+Key actions you can take to protect yourself against data breaches is Using a strong and unique password not 123. ABC, your name or your date of birth. Monitor the site you visit and also do not save your personal data to the browser.
+The subject line saying URGENT, Hello should have also included your name, and the content of the message if you haven't try accessing your bank with incorrect details.
+Yes, When opening that zip file there was virus it in and once you open it within a second it affects your personal computer and computer being slow it shows that it has been infected.
+
+Phishing Awareness: Stay Alert to Stay Safe
+
+Coworkers need to be aware of the websites they visit and the files they open on their computers. One of the most common threats in the workplace is phishing. To avoid falling victim to a phishing attack, never open emails from unknown senders—especially those claiming you’ve won a prize or offering free products or deals that seem too good to be true. These are classic tricks used by cybercriminals who prey on people hoping for something free or exciting.
+Be extra cautious with links in emails. Just one click on a fake coupon or promotional offer can download harmful software onto your computer. This can not only compromise your personal data but can also damage company systems and lead to serious data breaches.
+If you receive a message that seems suspicious such as one urging you to update software don’t act on it immediately. First, check with the fraud or IT team in your company. If they haven’t informed you about any updates or installations, don’t click on any links. It’s always better to be cautious and ask questions than to unknowingly install malicious software.
+Remember, cybersecurity is everyone’s responsibility. Stay informed, stay alert, and always verify before you click. Your awareness helps protect not just your device but the entire organization.
